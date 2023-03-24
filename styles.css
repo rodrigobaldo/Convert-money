@@ -101,3 +101,27 @@ section {
     border: 1px solid #1B83E2;
     border-radius: 4px;
 }
+
+.currency-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.currency-name {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+
+.currency-value {
+    color: #1B83E2;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.arrow-img {
+    margin: 15px auto;
+    display: block;
+}
